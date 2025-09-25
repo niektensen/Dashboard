@@ -1,0 +1,10 @@
+streamlit>=1.25
+pandas>=2.1
+numpy>=1.26
+geopandas>=0.13
+folium>=0.18
+altair>=5.0
+branca>=0.7
+matplotlib>=3.8
+seaborn>=0.12
+streamlit-folium>=0.11
